@@ -10,7 +10,7 @@
     "license": "LGPL-2.1",
 
 	"autoload": {
-        "psr-0": { "DHL\\": "DHL/" }
+        "psr-4": { "DHL\\": "DHL" }
 	},
 
 	"authors": [
